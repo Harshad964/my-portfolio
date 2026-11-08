@@ -24,7 +24,7 @@ export const personalInfo = {
     email: "mailto:harshadayatode2@gmail.com",
   },
   resume: {
-    path: "/resume/Final Resume.pdf",
+    path: "./Final_Resume.pdf",
     fileName: "Harshad_Shashikant_Ayatode_Resume.pdf",
     heading: "Resume",
     description: "Interested in my profile? View or download my latest resume.",
